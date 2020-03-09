@@ -2,6 +2,11 @@
 Sensible styles guides for programming languages I use
 
 
+### Python
+
+* [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
+
+
 ### R
 
 * [The Tidyverse Style Guide](https://style.tidyverse.org/)
