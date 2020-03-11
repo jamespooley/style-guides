@@ -22,4 +22,11 @@ Sensible styles guides for programming languages I use
 
 ### Clojure
 
+* [The Clojure Style Guide](https://guide.clojure.style/)
 * [Metabase Clojure Style Guide](https://github.com/metabase/metabase/wiki/Metabase-Clojure-Style-Guide)
+
+
+### Files
+
+* [Names](https://style.tidyverse.org/files.html#names) in The Tidyverse Style Guide
+* [Better Naming Convention for Jupyter Notebook](https://stackoverflow.com/questions/38305217/better-naming-convention-for-jupyter-notebook)
