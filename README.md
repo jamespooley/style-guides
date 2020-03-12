@@ -26,6 +26,15 @@ Sensible styles guides for programming languages I use
 * [Metabase Clojure Style Guide](https://github.com/metabase/metabase/wiki/Metabase-Clojure-Style-Guide)
 
 
+### SQL
+
+I've had a hate-hate relationship with SQL style for years, and have yet
+to find a style guide that just works for me (e.g., like the tidyverse
+style for R programming).
+
+* [SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html) from Firefox Data Documentation
+
+
 ### Files
 
 * [Names](https://style.tidyverse.org/files.html#names) in The Tidyverse Style Guide
