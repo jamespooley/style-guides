@@ -2,6 +2,9 @@
 Sensible styles guides for programming languages I use
 
 
+><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
+
+
 ### Python
 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
