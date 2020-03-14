@@ -40,5 +40,6 @@ style for R programming).
 
 ### Files
 
+* [Naming Things](https://speakerdeck.com/jennybc/how-to-name-files)
 * [Names](https://style.tidyverse.org/files.html#names) in The Tidyverse Style Guide
 * [Better Naming Convention for Jupyter Notebook](https://stackoverflow.com/questions/38305217/better-naming-convention-for-jupyter-notebook)
