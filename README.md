@@ -82,7 +82,7 @@ The second is the visual equivalent of fingernails on the chalkboard for me.
 
 ### Files
 
-><sup>File organization and naming are powerful weapons against chaos. (Jenny Bryan)</sup>
+><sup>File organization and naming are powerful weapons against chaos. ([@JennyBryan](https://twitter.com/JennyBryan))</sup>
 
 * [Naming Things](https://speakerdeck.com/jennybc/how-to-name-files)
 * [File Organization: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/) from Data Carpentry
