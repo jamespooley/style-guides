@@ -16,6 +16,7 @@ deal with this nonsense.
 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 * [Craft Your Python Like Poetry](https://treyhunner.com/2017/07/craft-your-python-like-poetry/)
+* [The Unreasonable Effectiveness of Method Chaining in Pandas](https://towardsdatascience.com/the-unreasonable-effectiveness-of-method-chaining-in-pandas-15c2109e3c69)
 * [Pandas Docstring Guide](https://pandas.pydata.org/docs/development/contributing_docstring.html)
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 
