@@ -94,3 +94,8 @@ The second is the visual equivalent of fingernails on the chalkboard for me.
 ### Makefiles
 
 * [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
+
+
+### YAML
+
+* [YAML Style Guide](https://github.com/flathub/flathub/wiki/YAML-Style-Guide)
