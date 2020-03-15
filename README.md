@@ -5,6 +5,13 @@ Sensible styles guides for programming languages I use
 ><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
 
 
+Every now and then a pretty bad case of OCD unfortunately rears its ugly head in my life.
+Given that I spend a decent amount of my life programming, it is often most notable for me
+in this context. Struggling with getting the look of code to "feel" right is occasionally
+a challenge. The following style guides have come in quite handy to help me not have to
+deal with this nonsense.
+
+
 ### Python
 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
