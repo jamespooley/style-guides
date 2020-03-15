@@ -43,5 +43,6 @@ style for R programming).
 ><sup>File organization and naming are powerful weapons against chaos. (Jenny Bryan)</sup>
 
 * [Naming Things](https://speakerdeck.com/jennybc/how-to-name-files)
+* [Best Practices for File Naming](https://records-express.blogs.archives.gov/2017/08/22/best-practices-for-file-naming/) from the National Archives Records Express
 * [Names](https://style.tidyverse.org/files.html#names) in The Tidyverse Style Guide
 * [Better Naming Convention for Jupyter Notebook](https://stackoverflow.com/questions/38305217/better-naming-convention-for-jupyter-notebook)
