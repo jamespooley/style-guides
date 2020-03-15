@@ -35,6 +35,31 @@ I've had a hate-hate relationship with SQL style for years, and have yet
 to find a style guide that just works for me (e.g., like the tidyverse
 style for R programming).
 
+However, one thing I feel **very strongly** about is that this:
+
+```sql
+select
+    user_id
+    , first_name
+    , last_name
+    , age
+from user_table
+```
+
+is way better than this:
+
+```sql
+select
+    user_id,
+    first_name,
+    last_name,
+    age
+from user_table
+```
+
+The second is the visual equivalent of fingernails on the chalkboard for me.
+
+
 * [SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html) from Firefox Data Documentation
 
 
