@@ -19,6 +19,7 @@ deal with this nonsense.
 * [The Unreasonable Effectiveness of Method Chaining in Pandas](https://towardsdatascience.com/the-unreasonable-effectiveness-of-method-chaining-in-pandas-15c2109e3c69)
 * [Pandas Docstring Guide](https://pandas.pydata.org/docs/development/contributing_docstring.html)
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
+* [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be&t=)
 
 
 ### R
