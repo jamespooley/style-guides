@@ -14,6 +14,8 @@ Sensible styles guides for programming languages I use
 
 ### R
 
+If you're programming in R, just use the style adopted by tidyverse developers. Full stop.
+
 * [The Tidyverse Style Guide](https://style.tidyverse.org/)
 
 
