@@ -72,6 +72,11 @@ The second is the visual equivalent of fingernails on the chalkboard for me.
 * [SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html) from Firefox Data Documentation
 
 
+### Stan
+
+* [Stan Program Style Guide](https://mc-stan.org/docs/2_22/stan-users-guide/stan-program-style-guide.html)
+
+
 ### Files
 
 ><sup>File organization and naming are powerful weapons against chaos. (Jenny Bryan)</sup>
