@@ -71,8 +71,30 @@ from user_table
 
 The second is the visual equivalent of fingernails on the chalkboard for me.
 
-
 * [SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html) from Firefox Data Documentation
+
+Another strong preference I have relates to CTEs.
+
+```sql
+-- Good
+with
+first_cte as (
+  ...
+)
+, second_cte as (
+  ...
+)
+select ...
+
+-- Bad
+with first_cte as (
+  ...
+),
+second_cte as (
+  ...
+)
+select ...
+```
 
 
 ### Stan
