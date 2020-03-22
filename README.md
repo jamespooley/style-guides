@@ -110,6 +110,15 @@ select ...
 Put the `WITH` on its own line, and put the `,` separating CTEs before
 the CTE name.
 
+I prefer this style of SQL because, when I'm developing queries, I typically
+always know the first few columns that I want to select and will be adding some
+"maybe these'll be useful" columns at the end. I'll often find myself deleting
+the last few columns when finalizing the query. With what I consider
+"fingernails-on-chalkboard" queries, I'll often forget to remove the trailing comma,
+which will cause me to run a query with invalid syntax. This is avoided in the what I
+consider to be good style, saving myself a few seconds of fixing my syntax error. The
+same goes for the CTEs.
+
 
 ### Stan
 
