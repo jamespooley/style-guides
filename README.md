@@ -96,6 +96,9 @@ second_cte as (
 select ...
 ```
 
+Put the `WITH` on its own line, and put the `,` separating CTEs before
+the CTE name.
+
 
 ### Stan
 
