@@ -1,6 +1,12 @@
 # 🕴️ style-guides
 Sensible styles guides for programming languages I use
 
+## Table of Contents
+
+* [Python](#python)
+* [R](#r)
+* [SQL](#sql)
+
 
 ><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
 
@@ -11,6 +17,7 @@ in this context. Struggling with getting the look of code to "feel" right is occ
 a challenge. The following style guides have come in quite handy to help me not have to
 deal with this nonsense.
 
+<a name=#python">
 
 ### Python
 
@@ -21,6 +28,8 @@ deal with this nonsense.
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 * [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be&t=)
 
+
+<a name="r">
 
 ### R
 
@@ -40,6 +49,8 @@ If you're programming in R, just use the style adopted by tidyverse developers. 
 * [The Clojure Style Guide](https://guide.clojure.style/)
 * [Metabase Clojure Style Guide](https://github.com/metabase/metabase/wiki/Metabase-Clojure-Style-Guide)
 
+
+<a name="sql">
 
 ### SQL
 
