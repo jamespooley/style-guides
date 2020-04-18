@@ -50,6 +50,36 @@ income = (
 )
 ```
 
+These extends to method chaining, where my preference is for "aligning
+dots." Taking an example from [here](https://tomaugspurger.github.io/method-chaining.html):
+
+```python
+flights_daily = (df.dropna(subset=['dep_time', 'unique_carrier'])
+                 .loc[df['unique_carrier']
+                 .isin(df['unique_carrier'].value_counts().index[:5])]
+                 .set_index('dep_time')
+                 .groupby(['unique_carrier', pd.TimeGrouper("H")])
+                 .fl_num.count()
+                 .unstack(0)
+                 .fillna(0)
+                 .rolling(24)
+                 .sum()
+                 .rename_axis("Flights per Day", axis=1)
+
+flights_daily = (
+    df.dropna(subset=['dep_time', 'unique_carrier'])
+      .loc[df['unique_carrier'].isin(df['unique_carrier'].value_counts().index[:5])]
+      .set_index('dep_time')
+      .groupby(['unique_carrier', pd.TimeGrouper("H")])
+      .fl_num.count()
+      .unstack(0)
+      .fillna(0)
+      .rolling(24)
+      .sum()
+      .rename_axis("Flights per Day", axis=1
+)
+```
+
 
 <a name="r">
 
