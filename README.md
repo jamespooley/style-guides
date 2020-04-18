@@ -28,7 +28,7 @@ deal with this nonsense.
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 * [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be&t=)
 
-PEP 8 [recommends]() the following:
+PEP 8 [recommends](https://www.python.org/dev/peps/pep-0008/#should-a-line-break-before-or-after-a-binary-operator) the following:
 
 ```python
 income = (gross_wages
