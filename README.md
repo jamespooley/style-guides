@@ -28,6 +28,28 @@ deal with this nonsense.
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 * [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be&t=)
 
+PEP 8 [recommends]() the following:
+
+```python
+income = (gross_wages
+          + taxable_interest
+          + (dividends - qualified_dividends)
+          - ira_deduction
+          - student_loan_interest)
+```
+
+My preference is instead:
+
+```python
+income = (
+    gross_wages
+    + taxable_interest
+    + (dividends - qualified_dividends)
+    - ira_deduction
+    - student_loan_interest
+)
+```
+
 
 <a name="r">
 
