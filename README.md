@@ -64,7 +64,7 @@ flights_daily = (df.dropna(subset=['dep_time', 'unique_carrier'])
                  .fillna(0)
                  .rolling(24)
                  .sum()
-                 .rename_axis("Flights per Day", axis=1)
+                 .rename_axis("Flights per Day", axis=1))
 
 flights_daily = (
     df.dropna(subset=['dep_time', 'unique_carrier'])
@@ -76,7 +76,7 @@ flights_daily = (
       .fillna(0)
       .rolling(24)
       .sum()
-      .rename_axis("Flights per Day", axis=1
+      .rename_axis("Flights per Day", axis=1)
 )
 ```
 
