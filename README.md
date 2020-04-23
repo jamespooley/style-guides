@@ -88,6 +88,8 @@ flights_daily = (
 If you're programming in R, just use the style adopted by tidyverse developers. Full stop.
 
 * [The Tidyverse Style Guide](https://style.tidyverse.org/)
+* Rasmus Bååth's talk on [The State of Naming Conventions in R](http://sumsar.net/files/academia/UseR_2013_R_naming_conventions_final.pdf) if worth a look
+
 
 
 ### JavaScript
