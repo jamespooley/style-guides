@@ -181,7 +181,7 @@ same goes for the CTEs.
 
 ### Files
 
-><sup>File organization and naming are powerful weapons against chaos. ([@JennyBryan](https://twitter.com/JennyBryan))</sup>
+><sup>File organization and naming are powerful weapons against chaos. [@JennyBryan](https://twitter.com/JennyBryan)</sup>
 
 * [Naming Things](https://speakerdeck.com/jennybc/how-to-name-files)
 * [File Organization: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/) from Data Carpentry
