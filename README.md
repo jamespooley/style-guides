@@ -190,6 +190,12 @@ same goes for the CTEs.
 * [Better Naming Convention for Jupyter Notebook](https://stackoverflow.com/questions/38305217/better-naming-convention-for-jupyter-notebook)
 
 
+### Code Comments
+
+* Good Twitter thread started by [@drewconway](https://twitter.com/drewconway/status/1234840750275342338)
+on Markdown vs. code comments in Jupyter notebooks
+
+
 ### Makefiles
 
 * [Makefile Style Guide](https://clarkgrubb.com/makefile-style-guide)
