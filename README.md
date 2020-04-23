@@ -17,7 +17,7 @@ in this context. Struggling with getting the look of code to "feel" right is occ
 a challenge. The following style guides have come in quite handy to help me not have to
 deal with this nonsense.
 
-<a name=#python">
+<a name="python">
 
 ### Python
 
