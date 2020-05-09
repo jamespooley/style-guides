@@ -9,7 +9,7 @@ Sensible styles guides for programming languages I use
 * [JavaScript](#js)
 * [Clojure](#clojure)
 * [Stan](#stan)
-* [Files](#files)
+* [Files](#filenames)
 
 
 ><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
@@ -195,7 +195,7 @@ same goes for the CTEs.
 * [Stan Program Style Guide](https://mc-stan.org/docs/2_22/stan-users-guide/stan-program-style-guide.html)
 
 
-<a name="files">
+<a name="filenames">
 
 ### Files
 
