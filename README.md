@@ -212,3 +212,8 @@ on Markdown vs. code comments in Jupyter notebooks
 ### YAML
 
 * [YAML Style Guide](https://github.com/flathub/flathub/wiki/YAML-Style-Guide)
+
+
+### Further Reading
+
+* [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/)
