@@ -51,7 +51,9 @@ income = (
 ```
 
 These extends to method chaining, where my preference is for "aligning
-dots." Taking an example from [here](https://tomaugspurger.github.io/method-chaining.html):
+dots." Taking an example from
+[Tom Augspurger's "Modern Pandas" blog post series](https://tomaugspurger.github.io/method-chaining.html),
+I'd rewrite this:
 
 ```python
 flights_daily = (df.dropna(subset=['dep_time', 'unique_carrier'])
@@ -65,7 +67,10 @@ flights_daily = (df.dropna(subset=['dep_time', 'unique_carrier'])
                  .rolling(24)
                  .sum()
                  .rename_axis("Flights per Day", axis=1))
+```
+As this:
 
+```python
 flights_daily = (
     df.dropna(subset=['dep_time', 'unique_carrier'])
       .loc[df['unique_carrier'].isin(df['unique_carrier'].value_counts().index[:5])]
@@ -79,6 +84,8 @@ flights_daily = (
       .rename_axis("Flights per Day", axis=1)
 )
 ```
+
+Again, this is subjective, but I just like the alignment.
 
 
 <a name="r">
