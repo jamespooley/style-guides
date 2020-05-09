@@ -6,6 +6,10 @@ Sensible styles guides for programming languages I use
 * [Python](#python)
 * [R](#r)
 * [SQL](#sql)
+* [JavaScript](#js)
+* [Clojure](#clojure)
+* [Stan](#stan)
+* [Files](#files)
 
 
 ><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
@@ -98,12 +102,15 @@ If you're programming in R, just use the style adopted by tidyverse developers. 
 * Rasmus Bååth's talk on [The State of Naming Conventions in R](http://sumsar.net/files/academia/UseR_2013_R_naming_conventions_final.pdf) if worth a look
 
 
+<a name="js">
 
 ### JavaScript
 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+
+<a name="clojure">
 
 ### Clojure
 
@@ -181,10 +188,14 @@ consider to be good style, saving myself a few seconds of fixing my syntax error
 same goes for the CTEs.
 
 
+<a name="stan">
+
 ### Stan
 
 * [Stan Program Style Guide](https://mc-stan.org/docs/2_22/stan-users-guide/stan-program-style-guide.html)
 
+
+<a name="files">
 
 ### Files
 
