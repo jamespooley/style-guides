@@ -31,6 +31,7 @@ deal with this nonsense.
 * [Pandas Docstring Guide](https://pandas.pydata.org/docs/development/contributing_docstring.html)
 * [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 * [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be&t=)
+* [How to Write Beautiful Python Code with PEP 8](https://realpython.com/python-pep8/)
 
 PEP 8 [recommends](https://www.python.org/dev/peps/pep-0008/#should-a-line-break-before-or-after-a-binary-operator) the following:
 
