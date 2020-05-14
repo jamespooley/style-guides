@@ -26,6 +26,7 @@ deal with this nonsense.
 ### Python
 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style) aims to provide a "Strunk and White for Python"
 * [Craft Your Python Like Poetry](https://treyhunner.com/2017/07/craft-your-python-like-poetry/)
 * [The Unreasonable Effectiveness of Method Chaining in Pandas](https://towardsdatascience.com/the-unreasonable-effectiveness-of-method-chaining-in-pandas-15c2109e3c69)
 * [Pandas Docstring Guide](https://pandas.pydata.org/docs/development/contributing_docstring.html)
