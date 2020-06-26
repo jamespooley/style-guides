@@ -12,7 +12,7 @@ Sensible styles guides for programming languages I use
 * [Files](#filenames)
 
 
-><sup>[A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)</sup>
+> [A foolish consistency is the hobgoblin of little minds](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
 
 
 Every now and then a pretty bad case of OCD unfortunately rears its ugly head in my life.
