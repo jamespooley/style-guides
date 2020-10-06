@@ -93,6 +93,11 @@ flights_daily = (
 
 Again, this is subjective, but I just like the alignment.
 
+#### Additional Resources
+
+* [Beyond PEP 8: Best Practices for Beautiful Intelligible Code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* [Readability Counts](https://www.youtube.com/watch?v=knMg6G9_XCg)
+
 
 <a name="r">
 
