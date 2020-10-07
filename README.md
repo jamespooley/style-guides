@@ -197,6 +197,7 @@ same goes for the CTEs.
 
 #### Additional Resources
 
+* [SQL Style Guide](https://docs.telemetry.mozilla.org/concepts/sql_style.html) from Firefox Data Documentation
 * GitLab's [SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/)
 
 
