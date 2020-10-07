@@ -195,6 +195,11 @@ consider to be good style, saving myself a few seconds of fixing my syntax error
 same goes for the CTEs.
 
 
+#### Additional Resources
+
+* GitLab's [SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/)
+
+
 <a name="stan">
 
 ### Stan
